@@ -12,8 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-//go:build go1.19
-// +build go1.19
+//go:build go1.19 || go1.22
 
 package maphash
 
